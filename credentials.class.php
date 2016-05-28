@@ -1,13 +1,13 @@
 <?php
 
-#   $url = "localhost";
+#   $url = "http://minep2pool.com:9332";
 #   $port = "8332";
-#   $username = "bitcoind";
-#   $password = "password";
+#   $username = "19kReT9trCKwgmYqjAgCtpdHwSNgVz61LE";
+#   $password = "1234";
 
     $response = json_decode(file_get_contents("http://nodes.p2pool.co/pools.dat"),true);
     $url = $response[0]['name'];
     $port = $response[0]['port'];
-    $username = "1DonatemDfMvQsLweYxPyA29rdgsXsxEc7";
-    $password = "xxx";
+    $username = "19kReT9trCKwgmYqjAgCtpdHwSNgVz61LE";
+    $password = "1234";
 ?>
