@@ -2,7 +2,7 @@
 
 #   $url = "http://minep2pool.com:9332";
 #   $port = "9332";
-#   $username = "username";
+#   $username = "bitcoind";
 #   $password = "password";
 
     $response = json_decode(file_get_contents("http://nodes.p2pool.co/pools.dat"),true);
