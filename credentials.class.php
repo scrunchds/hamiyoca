@@ -1,7 +1,7 @@
 <?php
 
 #   $url = "http://minep2pool.com:9332";
-#   $port = "8332";
+#   $port = "9332";
 #   $username = "19kReT9trCKwgmYqjAgCtpdHwSNgVz61LE";
 #   $password = "1234";
 
