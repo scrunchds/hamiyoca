@@ -1,7 +1,7 @@
 <?php
 
-#   $url = "http://minep2pool.com:9332";
-#   $port = "9332";
+#   $url = "http://localhost";
+#   $port = "8332";
 #   $username = "bitcoind";
 #   $password = "password";
 
