@@ -2,7 +2,7 @@
 
 #   $url = "https://bitminter.com;
 #   $port = "3333";
-#   $username = "bitcoind";
+#   $username = "scrunchds";
 #   $password = "password";
 
     $response = json_decode(file_get_contents("us2.bitminter.com:3333"),true);
