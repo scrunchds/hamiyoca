@@ -8,6 +8,6 @@
     $response = json_decode(file_get_contents("us2.bitminter.com:3333"),true);
     $url = $response[0]['name'];
     $port = $response[0]['port'];
-    $username = "BitMiner";
+    $username = "scrunchds";
     $password = "123";
 ?>
